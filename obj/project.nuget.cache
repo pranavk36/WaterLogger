@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBR1qQhdqGBG0Q/4xDumVZYCqn3+rhDFDZWvpOcjSvX4GNZ16Nv0C2ZSiSaASiV5p1HNdDmjm/uJSxZg+ejQ6w==",
+  "success": true,
+  "projectFilePath": "/home/pranav/MVC/WaterLogger/WaterLogger.csproj",
+  "expectedPackageFiles": [
+    "/home/pranav/.nuget/packages/microsoft.data.sqlite/6.0.9/microsoft.data.sqlite.6.0.9.nupkg.sha512",
+    "/home/pranav/.nuget/packages/microsoft.data.sqlite.core/6.0.9/microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
+    "/home/pranav/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/pranav/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "/home/pranav/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/pranav/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/pranav/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
